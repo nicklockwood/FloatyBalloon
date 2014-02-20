@@ -4,4 +4,4 @@ Floaty Balloon was created as part of an iOS tutorial for http://iosdevelopertip
 
 To read the tutorial, click here: http://wp.me/p4lc1T-3G9
 
-![Floaty Balloon screenshot](http://github.com/nicklockwood/FloatyBalloon/Screenshot.jpg)
+![Floaty Balloon screenshot](https://raw.github.com/nicklockwood/FloatyBalloon/master/Screenshot.jpg)
